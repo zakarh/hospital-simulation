@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS8674-MASTERS-PROJECT-SIMULATION", "CS8674-MASTERS-PROJECT-SIMULATION", "{FDF9CDAE-6413-95B7-D9A4-6E6C8F7EC124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "CS8674-MASTERS-PROJECT-SIMULATION\Assembly-CSharp.csproj", "{6CAF7007-8376-CFBA-6095-CB34F2334CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAF7007-8376-CFBA-6095-CB34F2334CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAF7007-8376-CFBA-6095-CB34F2334CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAF7007-8376-CFBA-6095-CB34F2334CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAF7007-8376-CFBA-6095-CB34F2334CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CAF7007-8376-CFBA-6095-CB34F2334CEF} = {FDF9CDAE-6413-95B7-D9A4-6E6C8F7EC124}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1614F20E-B1E5-43A3-B93E-F4D44905C4FA}
+	EndGlobalSection
+EndGlobal
