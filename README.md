@@ -1,2 +1,2 @@
 # hospital-simulation
-Archive hospital simulation project
+Archive of hospital simulation project
